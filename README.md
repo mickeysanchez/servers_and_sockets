@@ -6,7 +6,7 @@ Fire up these servers on the command line:
 
 [webrick docs](http://ruby-doc.org/stdlib-1.9.3/libdoc/webrick/rdoc/WEBrick.html)
 
-##### Local Area Network
+## Local Area Network
 
 You can allow others on your LAN to visit your server
 by having them visit http://your-ip-address-here:port
