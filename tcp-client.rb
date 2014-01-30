@@ -1,3 +1,5 @@
+# not by me - got this somewhere online
+
 require 'socket'
 
 loop do
