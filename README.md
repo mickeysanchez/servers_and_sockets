@@ -1,3 +1,7 @@
+# LAN chat
+
+Fire up LAN chat on the command line (ruby LAN_chat.rb) and have secret conversations over your network!
+
 # Ruby Webrick Servers!
 
 Fire up these servers on the command line:
